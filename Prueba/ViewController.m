@@ -24,8 +24,8 @@
 {
     [super viewDidUnload];
     // Release any retained subviews of the main view.
-    //Cambiado
-    //Nuevo
+    //Cambia
+    
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
